@@ -246,7 +246,7 @@ python regression.py
 
 ## 👨‍💻 Author
 
-**Ritik Sharma**
+**Ayush Kumar**
 B.Tech CSE
 
 ---
